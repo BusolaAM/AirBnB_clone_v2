@@ -4,12 +4,6 @@ This repository contains the initial stage of a project to build a clone of the 
 
 ---
 
-## Authors
-
-Busola Atinsola [https://github.com/BusolaAM]
-
-Denyefa Leader [https://github.com/DennyTimmy]
-
 <center><h3>Project Task</h3> </center>
 
 | Tasks | Files | Description |
@@ -174,3 +168,11 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ```
 
 <br>
+
+---
+
+## Authors
+
+Busola Atinsola [https://github.com/BusolaAM]
+
+Denyefa Leader [https://github.com/DennyTimmy]
