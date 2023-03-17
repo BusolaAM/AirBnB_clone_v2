@@ -7,6 +7,7 @@ This repository contains the initial stage of a project to build a clone of the 
 ## Authors
 
 Busola Atinsola [https://github.com/BusolaAM]
+
 Denyefa Leader [https://github.com/DennyTimmy]
 
 <center><h3>Repository Contents by Project Task</h3> </center>
